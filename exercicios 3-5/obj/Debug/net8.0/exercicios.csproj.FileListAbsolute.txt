@@ -1,0 +1,14 @@
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\exercicios.AssemblyInfoInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\exercicios.AssemblyInfo.cs
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\exercicios.csproj.CoreCompileInputs.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\bin\Debug\net8.0\exercicios.exe
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\bin\Debug\net8.0\exercicios.deps.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\bin\Debug\net8.0\exercicios.runtimeconfig.json
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\bin\Debug\net8.0\exercicios.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\bin\Debug\net8.0\exercicios.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\exercicios.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\refint\exercicios.dll
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\exercicios.pdb
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\exercicios.genruntimeconfig.cache
+C:\Users\elyan\Desktop\Udemy\Curso Logica de programação C#\projetos\exercicios\exercicios\obj\Debug\net8.0\ref\exercicios.dll
